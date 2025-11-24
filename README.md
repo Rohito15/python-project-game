@@ -5,7 +5,7 @@
 - K.Vaibhav - Roll No : BE2025028
 - M.Sathvik - Roll No : IE2025024
 - Vijay Simha Reddy - Roll No : BE2025012
-- Jitendra Reddy - Roll NO : BA2025008 
+- Jithindra Reddy - Roll NO : BA2025008 
 
 
 ## Project Description:
