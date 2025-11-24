@@ -6,5 +6,5 @@
 
 ---
 
-##Project Description:
+####Project Description:
 Battleship is a **Two player python terminal based strategy game**.
