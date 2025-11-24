@@ -4,7 +4,6 @@
 - Rohit Gakiwad - Roll No : BE2025011  
 - vaibhav k - 
 
----
 
-#Project Description:
+## Project Description:
 Battleship is a **Two player python terminal based strategy game**.
