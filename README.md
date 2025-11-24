@@ -3,7 +3,7 @@
 ### Team Members:
 - Rohit Gakiwad - Roll No : BE2025011  
 - K.Vaibhav - Roll No : BE2025028
-- M.Sathvik - Roll No : BE2025024
+- M.Sathvik - Roll No : IE2025024
 - Vijay Simha Reddy - Roll No : BE2025012
 - Jitendra Reddy - Roll NO : BA2025008 
 
